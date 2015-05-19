@@ -1,0 +1,2 @@
+-e git://github.com/prototo/NyaaPythonClient.git#egg=nyaa
+
