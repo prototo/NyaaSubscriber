@@ -1,0 +1,1 @@
+from nyaa_subscriber.subscriber import NyaaSubscription
