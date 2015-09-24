@@ -1,5 +1,5 @@
 import os
-from nyaa import NyaaClient
+from nyaa_client import NyaaClient
 from urllib.request import urlretrieve
 
 
