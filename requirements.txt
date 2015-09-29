@@ -1,2 +1,2 @@
--e git://github.com/prototo/NyaaPythonClient.git#egg=nyaa
+-e git://github.com/prototo/NyaaPythonClient.git#egg=nyaa_client
 
